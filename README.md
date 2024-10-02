@@ -1,5 +1,5 @@
-# Installation-NGINX https://nginx.org/en/
-Tutorial for Nginx server for linux
+## Installation-NGINX 
+Tutorial for Nginx server for linux https://nginx.org/en/
 Installation:
 ### Step 1:
 * sudo apt update
